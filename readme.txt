@@ -1,1 +1,1 @@
-This is my GitHub landing page project.
+I have created this Landing Page project and uploaded in GitHub.
